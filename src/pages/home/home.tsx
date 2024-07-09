@@ -15,6 +15,7 @@ function Home() {
             <br className="hidden md:block" /> Streamline issues, sprints, and
             product roadmaps.
           </HeroSubtitle>
+          <img src="img/hero.webp" alt="hero image" />
         </Hero>
       </Container>
     </>
